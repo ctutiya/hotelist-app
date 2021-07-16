@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hotelist-app/static/css/main.44a3dfaa.chunk.css",
-    "main.js": "/hotelist-app/static/js/main.ba988640.chunk.js",
-    "main.js.map": "/hotelist-app/static/js/main.ba988640.chunk.js.map",
-    "runtime-main.js": "/hotelist-app/static/js/runtime-main.87845bb0.js",
-    "runtime-main.js.map": "/hotelist-app/static/js/runtime-main.87845bb0.js.map",
-    "static/css/2.87a2527b.chunk.css": "/hotelist-app/static/css/2.87a2527b.chunk.css",
-    "static/js/2.736f1439.chunk.js": "/hotelist-app/static/js/2.736f1439.chunk.js",
-    "static/js/2.736f1439.chunk.js.map": "/hotelist-app/static/js/2.736f1439.chunk.js.map",
-    "index.html": "/hotelist-app/index.html",
-    "static/css/2.87a2527b.chunk.css.map": "/hotelist-app/static/css/2.87a2527b.chunk.css.map",
-    "static/css/main.44a3dfaa.chunk.css.map": "/hotelist-app/static/css/main.44a3dfaa.chunk.css.map",
-    "static/js/2.736f1439.chunk.js.LICENSE.txt": "/hotelist-app/static/js/2.736f1439.chunk.js.LICENSE.txt"
+    "main.css": "/hotelist/static/css/main.44a3dfaa.chunk.css",
+    "main.js": "/hotelist/static/js/main.c4dc4715.chunk.js",
+    "main.js.map": "/hotelist/static/js/main.c4dc4715.chunk.js.map",
+    "runtime-main.js": "/hotelist/static/js/runtime-main.00a182e1.js",
+    "runtime-main.js.map": "/hotelist/static/js/runtime-main.00a182e1.js.map",
+    "static/css/2.87a2527b.chunk.css": "/hotelist/static/css/2.87a2527b.chunk.css",
+    "static/js/2.48861244.chunk.js": "/hotelist/static/js/2.48861244.chunk.js",
+    "static/js/2.48861244.chunk.js.map": "/hotelist/static/js/2.48861244.chunk.js.map",
+    "index.html": "/hotelist/index.html",
+    "static/css/2.87a2527b.chunk.css.map": "/hotelist/static/css/2.87a2527b.chunk.css.map",
+    "static/css/main.44a3dfaa.chunk.css.map": "/hotelist/static/css/main.44a3dfaa.chunk.css.map",
+    "static/js/2.48861244.chunk.js.LICENSE.txt": "/hotelist/static/js/2.48861244.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.87845bb0.js",
+    "static/js/runtime-main.00a182e1.js",
     "static/css/2.87a2527b.chunk.css",
-    "static/js/2.736f1439.chunk.js",
+    "static/js/2.48861244.chunk.js",
     "static/css/main.44a3dfaa.chunk.css",
-    "static/js/main.ba988640.chunk.js"
+    "static/js/main.c4dc4715.chunk.js"
   ]
 }
